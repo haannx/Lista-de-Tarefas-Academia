@@ -3,4 +3,4 @@
 
 \\ Acesse e veja como funciona! 
 
-https://lambent-dolphin-c670f2.netlify.app
+https://academiatarefas.netlify.app
